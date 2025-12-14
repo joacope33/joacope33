@@ -18,7 +18,7 @@ I’m passionate about learning, continuously improving my technical skills, and
 
 ---
 
-### 💻 Technologies & Tools
+## 💻 Technologies & Tools
 
 #### Languages
 ![Java](https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=java&logoColor=white)
