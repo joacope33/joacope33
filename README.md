@@ -1,81 +1,72 @@
+# 👋 Hi, I'm **Joaquín Pereyra**  
+### Junior Backend / Full Stack Developer
 
-# 👋 Hola, soy **Desarrollador Junior Backend / Full Stack**
+💼 **Actively looking for my first opportunity in IT**  
+🚀 Targeting **Junior / Trainee** positions as a **Backend or Full Stack Developer**
 
-💼 **En búsqueda activa de mi primera oportunidad laboral en IT**
-🚀 Apunto a posiciones **Junior / Trainee** como **Desarrollador Backend o Full Stack**
-
-Soy desarrollador con enfoque en **desarrollo web**, apasionado por aprender, mejorar continuamente mis habilidades técnicas y colaborar en equipo para crear soluciones reales y de calidad.
-
----
-
-## 🧠 Sobre mí
-
-* Interés principal en **backend y lógica de negocio**
-* Buen manejo de **bases de datos relacionales y NoSQL**
-* Mentalidad de aprendizaje constante
-* Responsable, comprometido y con ganas de crecer profesionalmente
+I’m a web developer with a strong interest in **backend development and business logic**.  
+I’m passionate about learning, continuously improving my technical skills, and collaborating in teams to build real, high-quality solutions.
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🧠 About Me
 
-### 🔹 Lenguajes
-
-* Java
-* JavaScript
-* TypeScript
-
-### 🔹 Backend
-
-* Node.js
-* Spring Boot
-* APIs REST
-* Arquitectura cliente-servidor
-* MVC
-* Micro Servicios
-* Interesado en seguir aprendiendo.
-
-### 🔹 Frontend
-
-* Angular
-* Next.js
-* Interesado en seguir aprendiendo.
-
-### 🔹 Bases de Datos
-* MySql
-* MariaDB
-* MongoDB
-* Google Cloud Databases
-
-### 🔹 IA aplicada al desarrollo
-* Uso de ChatGPT y Claude como asistentes de programación
-* Prompt engineering básico
-* Consumo de APIs de IA en proyectos web
+- Strong interest in **backend development**
+- Solid understanding of **relational and NoSQL databases**
+- Constant learning mindset
+- Responsible, committed, and motivated to grow professionally
 
 ---
 
-## 🎯 Objetivo Profesional
+### 💻 Technologies & Tools
 
-Busco incorporarme a un equipo donde pueda:
+#### Languages
+![Java](https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-* Aprender y aplicar **buenas prácticas de desarrollo**
-* Participar en **proyectos reales**
-* Crecer como **desarrollador backend o full stack**
-* Aportar compromiso, responsabilidad y actitud proactiva
+#### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-02569B?style=flat-square&logo=fastapi&logoColor=white)
+
+#### Frontend
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+#### Databases
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+#### AI & Development Tools
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+---
+
+## 🎯 Professional Goal
+
+I’m looking to join a team where I can:
+
+- Learn and apply **best development practices**
+- Contribute to **real-world projects**
+- Grow as a **Backend or Full Stack Developer**
+- Add value through commitment, responsibility, and a proactive attitude
 
 ---
 
-## 📚 Actualmente aprendiendo
-
-* Arquitectura backend
-* Optimización y modelado de bases de datos
-* Desarrollo de aplicaciones web escalables
+## 📚 Currently Learning
+- Backend architecture
+- Database optimization and modeling
+- Scalable web application development
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 
-* 💻 **GitHub:** este perfil
-* 💼 **LinkedIn:** *([Joaquín Pereyra](https://www.linkedin.com/in/joaquin-pereyra-6a7914196/))*
-* 📧 **Email:** *(pereryra30@gmail.com
-)*
+- 💻 **GitHub:** This profile  
+- 💼 **LinkedIn:** [Joaquín Pereyra](https://www.linkedin.com/in/joaquin-pereyra-6a7914196/)
+
